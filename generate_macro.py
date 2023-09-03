@@ -8,9 +8,9 @@ output_filepath = f'protons_2x2_uniform_{E_start}MeV_to_{E_stop}MeV.txt'
 
 x_diff = (E_stop-E_start)/bins
 energies = np.arange(E_start, E_stop, x_diff)
-fraction = np.ones(len(x))*1/len(x)
+fraction = np.ones(len(energies))*1/len(energies)
 
-f = open(filepath_txt, "w+")
+f = open(output_filepath, "w+")
 f.write('/edep/random/timeRandomSeed\n')
 f.write('/edep/gdml/read Merged2x2MINERvA_v3_withRock.gdml\n')
 f.write('/edep/phys/ionizationModel 0')
