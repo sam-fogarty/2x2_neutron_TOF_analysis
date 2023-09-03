@@ -4,7 +4,7 @@ import numpy as np
 bins = 50
 E_start = 1 # MeV
 E_stop = 1000
-output_filepath = f'protons_2x2_uniform_{E_start}MeV_to_{E_stop}MeV.txt'
+output_filepath = f'protons_2x2_uniform_{E_start}MeV_to_{E_stop}MeV.mac'
 
 x_diff = (E_stop-E_start)/bins
 energies = np.arange(E_start, E_stop, x_diff)
