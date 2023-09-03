@@ -1,0 +1,66 @@
+/edep/random/timeRandomSeed
+/edep/gdml/read Merged2x2MINERvA_v3_withRock.gdml
+/edep/phys/ionizationModel 0
+/edep/hitSeparation volLArActive -1 mm
+/edep/update
+/gps/pos/type Volume
+/gps/pos/shape Para
+/gps/pos/centre 0.0 -268.0 1300 cm
+/gps/pos/halfx 64.365 cm
+/gps/pos/halfy 62.288 cm
+/gps/pos/halfz 64.750 cm
+/gps/ang/type iso
+/gps/particle proton
+/gps/ene/type User
+/gps/hist/type energy
+/gps/hist/point 1.000000 0.020000
+/gps/hist/point 6.980000 0.020000
+/gps/hist/point 12.960000 0.020000
+/gps/hist/point 18.940000 0.020000
+/gps/hist/point 24.920000 0.020000
+/gps/hist/point 30.900000 0.020000
+/gps/hist/point 36.880000 0.020000
+/gps/hist/point 42.860000 0.020000
+/gps/hist/point 48.840000 0.020000
+/gps/hist/point 54.820000 0.020000
+/gps/hist/point 60.800000 0.020000
+/gps/hist/point 66.780000 0.020000
+/gps/hist/point 72.760000 0.020000
+/gps/hist/point 78.740000 0.020000
+/gps/hist/point 84.720000 0.020000
+/gps/hist/point 90.700000 0.020000
+/gps/hist/point 96.680000 0.020000
+/gps/hist/point 102.660000 0.020000
+/gps/hist/point 108.640000 0.020000
+/gps/hist/point 114.620000 0.020000
+/gps/hist/point 120.600000 0.020000
+/gps/hist/point 126.580000 0.020000
+/gps/hist/point 132.560000 0.020000
+/gps/hist/point 138.540000 0.020000
+/gps/hist/point 144.520000 0.020000
+/gps/hist/point 150.500000 0.020000
+/gps/hist/point 156.480000 0.020000
+/gps/hist/point 162.460000 0.020000
+/gps/hist/point 168.440000 0.020000
+/gps/hist/point 174.420000 0.020000
+/gps/hist/point 180.400000 0.020000
+/gps/hist/point 186.380000 0.020000
+/gps/hist/point 192.360000 0.020000
+/gps/hist/point 198.340000 0.020000
+/gps/hist/point 204.320000 0.020000
+/gps/hist/point 210.300000 0.020000
+/gps/hist/point 216.280000 0.020000
+/gps/hist/point 222.260000 0.020000
+/gps/hist/point 228.240000 0.020000
+/gps/hist/point 234.220000 0.020000
+/gps/hist/point 240.200000 0.020000
+/gps/hist/point 246.180000 0.020000
+/gps/hist/point 252.160000 0.020000
+/gps/hist/point 258.140000 0.020000
+/gps/hist/point 264.120000 0.020000
+/gps/hist/point 270.100000 0.020000
+/gps/hist/point 276.080000 0.020000
+/gps/hist/point 282.060000 0.020000
+/gps/hist/point 288.040000 0.020000
+/gps/hist/point 294.020000 0.020000
+/gps/hist/inter Lin
