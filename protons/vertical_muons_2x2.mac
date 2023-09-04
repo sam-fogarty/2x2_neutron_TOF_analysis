@@ -1,0 +1,22 @@
+/edep/random/timeRandomSeed
+/edep/gdml/read Merged2x2MINERvA_v3_withRock.gdml
+/edep/phys/ionizationModel 0
+/edep/hitSeparation volLArActive -1 mm
+/edep/update
+/gps/pos/type Volume
+/gps/pos/shape Para
+/gps/pos/centre 0.0 -100.0 1300 cm
+/gps/pos/halfx 64.365 cm
+/gps/pos/halfy 1.0 cm
+/gps/pos/halfz 64.750 cm
+#/gps/ang/type iso
+/gps/direction 0 -1 0
+/gps/particle mu-
+/gps/ene/type User
+/gps/hist/type energy
+/gps/hist/point 1000 0.2
+/gps/hist/point 2000 0.2
+/gps/hist/point 3000 0.2
+/gps/hist/point 4000 0.2
+/gps/hist/point 5000 0.2
+
